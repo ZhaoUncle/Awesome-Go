@@ -32,4 +32,4 @@
 | [awesome-go-zh](https://github.com/chai2010/awesome-go-zh) | 970 | 168 | 2 | :books: Go资源精选中文版(含中文图书大全) | 2020-08-15 12:57:30 |
 | [gin-tutorial](https://github.com/jiujuan/gin-tutorial) | 20 | 6 | 0 | golang Gin tutorial，executable samples. Gin is a HTTP web framework written in Go (Golang). | 2021-04-26 06:28:29 |
 
-*Last Automatic Update: 2022-04-01T17:56:19*
+*Last Automatic Update: 2022-04-01T09:57:28*
