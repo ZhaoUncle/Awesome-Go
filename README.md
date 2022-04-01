@@ -8,11 +8,13 @@
 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 23972 | 4430 | 17 | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 | 2022-03-20 06:04:29 |
 | [go-patterns](https://github.com/tmrts/go-patterns) | 18662 | 1750 | 61 | Curated list of Go design patterns, recipes and idioms | 2017-07-19 10:41:46 |
 | [learngo](https://github.com/inancgumus/learngo) | 13119 | 1717 | 8 | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes | 2022-01-31 08:40:15 |
-| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | 12242 | 3558 | 32 | 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。 | 2022-03-31 14:15:09 |
+| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | 12243 | 3558 | 32 | 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。 | 2022-03-31 14:15:09 |
 | [GoBooks](https://github.com/dariubs/GoBooks) | 11987 | 1669 | 3 | List of Golang books | 2022-03-18 00:08:58 |
 | [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) | 9609 | 2138 | 27 | 为互联网IT人打造的中文版awesome-go | 2020-03-27 06:03:52 |
 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 8575 | 1744 | 22 | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 2022-03-21 11:30:10 |
 | [The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 8482 | 1926 | 30 | Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 | 2022-03-06 14:50:52 |
+| [go-admin](https://github.com/go-admin-team/go-admin) | 6063 | 1353 | 65 | 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev | 2022-04-01 06:14:01 |
+| [go-admin](https://github.com/GoAdminGroup/go-admin) | 5855 | 1027 | 143 | A golang framework helps gopher to build a data visualization and admin panel in ten minutes | 2022-02-15 02:36:17 |
 | [go-gin-example](https://github.com/eddycjy/go-gin-example) | 5246 | 1279 | 33 | An example of gin | 2020-12-28 12:52:22 |
 | [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) | 5018 | 923 | 7 | Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。 | 2021-08-05 13:28:47 |
 | [gopass](https://github.com/gopasspw/gopass) | 4536 | 407 | 78 | The slightly more awesome standard unix password manager for teams | 2022-03-25 17:46:02 |
@@ -30,4 +32,4 @@
 | [awesome-go-zh](https://github.com/chai2010/awesome-go-zh) | 970 | 168 | 2 | :books: Go资源精选中文版(含中文图书大全) | 2020-08-15 12:57:30 |
 | [gin-tutorial](https://github.com/jiujuan/gin-tutorial) | 20 | 6 | 0 | golang Gin tutorial，executable samples. Gin is a HTTP web framework written in Go (Golang). | 2021-04-26 06:28:29 |
 
-*Last Automatic Update: 2022-04-01T17:50:38*
+*Last Automatic Update: 2022-04-01T17:56:19*
